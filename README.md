@@ -28,9 +28,8 @@ I have a solid understanding of CSS/SASS/BEM.
 
 <h3 align="center">Coding Stats And Achievements:</h3>
 
-<p align="center">![Codewars](https://www.codewars.com/users/eva595/badges/small)</p>
-
-<!-- [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats) -->
+<!-- ![Codewars](https://www.codewars.com/users/eva595/badges/small) -->
+<p align="center"><img src="https://www.codewars.com/users/eva595/badges/small" alt="andre353" /></p>
 
 ![WakaTime Stats](https://github.com/andre353/andre353/blob/main/wakatime.png)
 

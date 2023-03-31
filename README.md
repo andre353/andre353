@@ -13,7 +13,7 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ✨ My highest interest lies in SSR applications. ✨
 
-## Some Stats:
+#### Some Stats:
 
 ![Codewars](https://www.codewars.com/users/eva595/badges/small)
 

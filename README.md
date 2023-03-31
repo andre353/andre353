@@ -27,9 +27,9 @@ I have a solid understanding of CSS/SASS/BEM.
 
 [Agile Software Development Certificate, University of Minnesota](https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM)
 
-[Introduction to Google SEO](https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4)
+[Introduction to Google SEO Certificate, University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4)
 
-![Credly Google Certificate](https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png)
+
 
 
 

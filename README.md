@@ -26,7 +26,7 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ✨ My highest interest lies in SSR applications. ✨
 
-<h3 align="center">Coding Stats And Achievements:</h3>
+<h3 align="center">Coding Stats:</h3>
 
 <!-- ![Codewars](https://www.codewars.com/users/eva595/badges/small) -->
 <p align="center"><img src="https://www.codewars.com/users/eva595/badges/small" alt="andre353" /></p>
@@ -35,11 +35,12 @@ I have a solid understanding of CSS/SASS/BEM.
 
 <h3 align="center">Software Development Study Achievements:</h3>
 
-[<img src="https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png" width="200" height="200">](https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url)
+<p align="center"><a href="https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url" target="_blank" rel="noreferrer"><img src="https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png" width="200" height="200"></a></p>
 
-[Agile Software Development Certificate, University of Minnesota](https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM)
+<p align="center"><a href="https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM" target="_blank" rel="noreferrer">Agile Software Development Certificate, University of Minnesota</a></p>
 
-[Introduction to Google SEO Certificate, University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4)
+<p align="center"><a href="https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4" target="_blank" rel="noreferrer">Introduction to Google SEO Certificate, University of California, Davis</a></p>
+
 
 
 

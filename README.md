@@ -13,12 +13,16 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ✨ My highest interest lies in SSR applications. ✨
 
-#### Some Stats:
+#### Some Stats And Achievements:
 
 ![Codewars](https://www.codewars.com/users/eva595/badges/small)
 
 [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats)
 
 ![WakaTime Stats](https://github.com/andre353/andre353/blob/main/wakatime.png)
+
+![Google Project Management Certificate](https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url)
+
+
 
 

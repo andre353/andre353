@@ -8,8 +8,7 @@
 
 <table>
   <tr>
-    <td align="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andre353&" alt="andre353" /></td>
-
+    <td align="top"><img src="https://github-readme-stats.vercel.app/api?username=andre353" alt="andre353" /></td>
     <td align="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre353&show_icons=true&locale=en&layout=compact" alt="andre353" /></td>
   </tr>  
 </table>
@@ -28,7 +27,7 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ![Codewars](https://www.codewars.com/users/eva595/badges/small)
 
-[![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats)
+<!-- [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats) -->
 
 ![WakaTime Stats](https://github.com/andre353/andre353/blob/main/wakatime.png)
 

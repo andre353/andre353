@@ -13,13 +13,21 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ✨ My highest interest lies in SSR applications. ✨
 
-#### Some Stats And Achievements:
+#### Coding Stats And Achievements:
 
 ![Codewars](https://www.codewars.com/users/eva595/badges/small)
 
 [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats)
 
 ![WakaTime Stats](https://github.com/andre353/andre353/blob/main/wakatime.png)
+
+#### Software Development Study Achievements:
+
+[<img src="https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png" width="200" height="200">](https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url)
+
+[Agile Software Development Certificate, University of Minnesota](https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM)
+
+[Introduction to Google SEO](https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4)
 
 ![Credly Google Certificate](https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png)
 

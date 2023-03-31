@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, World! 👋 I'm Alena, a web-developer.
 
-<!--
-**andre353/andre353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm driven ⚡ by the idea of being able to participate in creation of full-fledged, robust web-sites and applications to make this world a better place. 
+<!-- The constant evolution of new high technologies inspires me to constantly merge incoming knowledge with the received. I'm a permanent learner. -->
 
-Here are some ideas to get you started:
+I have 1 year of 👯 commercial experience in building WordPress based sites, handling twig/timber templates, db migrations, ACF Pro management, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently I'm a student of Hexlet Python Web-Developer Profession.
+
+I keep following FreeCodeCamp tutorials in React and Redux, Next js to become a full-fledged fullstack developer. I have a solid understanding of CSS/SASS/BEM.
+
+✨ My highest interest lies in SSR applications. ✨
+
+![Codewars](https://www.codewars.com/users/eva595/badges/small)
+
+[![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats)
+
+

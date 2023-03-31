@@ -16,15 +16,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andre353" alt="andre353" /></a> </p>
 
-I have 1 year of 👯 commercial experience in building WordPress based sites, handling twig/timber templates, db migrations, ACF Pro management, etc.
+<h3 align="center">Facts:</h3>
 
-🌱 Currently I'm a student of Hexlet Python Web-Developer Profession.
+- 👯 1 year of commercial experience in building WordPress based sites, handling twig/timber templates, db migrations, ACF Pro management, etc.
 
-I keep following FreeCodeCamp tutorials in React and Redux, Next js to become a full-fledged fullstack developer.
+- 🌱 currently a student of Hexlet Python Web-Developer Profession.
 
-I have a solid understanding of CSS/SASS/BEM.
+- 💎 keep following FreeCodeCamp tutorials in React and Redux, Next js to become a full-fledged fullstack developer.
 
-✨ My highest interest lies in SSR applications. ✨
+- 🎯 a solid understanding of CSS/SASS/BEM.
+
+- ✨ highest interest lies in SSR applications. 
 
 <h3 align="center">Coding Stats:</h3>
 

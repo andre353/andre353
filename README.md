@@ -21,7 +21,7 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ![WakaTime Stats](https://github.com/andre353/andre353/blob/main/wakatime.png)
 
-![Google Project Management Certificate](https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 

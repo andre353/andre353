@@ -7,13 +7,18 @@ I have 1 year of 👯 commercial experience in building WordPress based sites, h
 
 🌱 Currently I'm a student of Hexlet Python Web-Developer Profession.
 
-I keep following FreeCodeCamp tutorials in React and Redux, Next js to become a full-fledged fullstack developer. 
+I keep following FreeCodeCamp tutorials in React and Redux, Next js to become a full-fledged fullstack developer.
+
 I have a solid understanding of CSS/SASS/BEM.
 
 ✨ My highest interest lies in SSR applications. ✨
 
+## Some Stats:
+
 ![Codewars](https://www.codewars.com/users/eva595/badges/small)
 
 [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats)
+
+![WakaTime Stats](https://github.com/andre353/andre353/blob/main/wakatime.png)
 
 

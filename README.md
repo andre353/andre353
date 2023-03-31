@@ -39,6 +39,10 @@
 
 <p align="center"><a href="https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url" target="_blank" rel="noreferrer"><img src="https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png" width="200" height="200"></a></p>
 
+<p align="center"><a href="https://www.udemy.com/certificate/UC-91f09282-6834-4b1d-a061-2112fdc83060/" target="_blank" rel="noreferrer">SQL - The Complete Developer's Guide (MySQL, PostgreSQL) Certificate</a></p>
+
+<p align="center"><a href="https://www.udemy.com/certificate/UC-110fc237-5208-4018-8842-ab9c52f5eddb/" target="_blank" rel="noreferrer">Advanced CSS and Sass: Flexbox, Grid, Animations and More! Certificate</a></p>
+
 <p align="center"><a href="https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM" target="_blank" rel="noreferrer">Agile Software Development Certificate, University of Minnesota</a></p>
 
 <p align="center"><a href="https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4" target="_blank" rel="noreferrer">Introduction to Google SEO Certificate, University of California, Davis</a></p>

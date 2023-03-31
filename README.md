@@ -8,10 +8,13 @@
 
 <table align="center">
   <tr>
-    <td align="top"><img src="https://github-readme-stats.vercel.app/api?username=andre353" alt="andre353" /></td>
+<!--     <td align="top"><img src="https://github-readme-stats.vercel.app/api?username=andre353" alt="andre353" /></td> -->
     <td align="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre353&show_icons=true&locale=en&layout=compact" alt="andre353" /></td>
+    <td align="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andre353&" alt="andre353" /></td>
   </tr>  
 </table>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andre353" alt="andre353" /></a> </p>
 
 I have 1 year of 👯 commercial experience in building WordPress based sites, handling twig/timber templates, db migrations, ACF Pro management, etc.
 
@@ -23,9 +26,9 @@ I have a solid understanding of CSS/SASS/BEM.
 
 ✨ My highest interest lies in SSR applications. ✨
 
-<h3 align="center">Coding Stats And Achievements</h3>:
+<h3 align="center">Coding Stats And Achievements:</h3>
 
-![Codewars](https://www.codewars.com/users/eva595/badges/small)
+<p align="center">![Codewars](https://www.codewars.com/users/eva595/badges/small)</p>
 
 <!-- [![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre353)](https://github.com/andre353/github-readme-stats) -->
 

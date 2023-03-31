@@ -23,11 +23,11 @@ I have a solid understanding of CSS/SASS/BEM.
 
 #### Software Development Study Achievements:
 
-[<img src="https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png" width="200" height="200">](https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url" target="_blank)
+[<img src="https://github.com/andre353/andre353/blob/main/google-project-management-certificate.png" width="200" height="200">](https://www.credly.com/badges/ad1e25d3-4c93-4a89-9e6d-efb0010d4b4d/public_url)
 
-[Agile Software Development Certificate, University of Minnesota](https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM" target="_blank)
+[Agile Software Development Certificate, University of Minnesota](https://www.coursera.org/account/accomplishments/certificate/U3RXV2BWGRJM)
 
-[Introduction to Google SEO Certificate, University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4/?target=_blank)
+[Introduction to Google SEO Certificate, University of California, Davis](https://www.coursera.org/account/accomplishments/certificate/9QQ99U4XD8Z4)
 
 
 
